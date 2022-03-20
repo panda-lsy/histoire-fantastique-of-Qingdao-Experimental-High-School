@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"shigao","characterIndex":0,"characterName":"shigao","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"shigao","traits":[],"initialLevel":1,"maxLevel":99,"name":"实高娘","nickname":"实高酱","note":"","profile":""},
+{"id":2,"battlerName":"shengxia4","characterIndex":1,"characterName":"Nature","classId":2,"equips":[7,40,48,0,99],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"乒乓球猫","nickname":"","note":"","profile":"作者。"},
+{"id":3,"battlerName":"huange","characterIndex":0,"characterName":"huange","classId":3,"equips":[0,27,0,2,100],"faceIndex":0,"faceName":"huange","traits":[],"initialLevel":1,"maxLevel":99,"name":"黄哥","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"donge3","characterIndex":0,"characterName":"donge","classId":4,"equips":[38,0,0,2,0],"faceIndex":0,"faceName":"donge","traits":[],"initialLevel":1,"maxLevel":99,"name":"董哥","nickname":"","note":"","profile":""}
+]
